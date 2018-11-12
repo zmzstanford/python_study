@@ -1,0 +1,5 @@
+name = input('请输入你的名字:')
+print('hello,',name)
+print("1024*768 = ",1024*768)
+number = input('请输入数字算式:')
+print('number = ',number)
